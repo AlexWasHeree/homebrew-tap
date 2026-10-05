@@ -12,7 +12,6 @@ cask "notecast-editor" do
     strategy :github_latest
   end
 
-  depends_on arch: :arm64
   depends_on macos: :ventura
 
   app "NoteCast Editor.app"
