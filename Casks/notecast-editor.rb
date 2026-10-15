@@ -1,6 +1,6 @@
 cask "notecast-editor" do
-  version "0.4.2"
-  sha256 "d76a7b29314341b4cb5b36fcbbcf5fabc103ef05c2f63d8744eac01df87e3fdf"
+  version "0.4.3"
+  sha256 "da9825c9dafbd8b1bcfa540a7d00d8491f08f46b7cd3656239a1ce06c6725ad7"
 
   url "https://github.com/AlexWasHeree/notecast-editor-app/releases/download/v#{version}/NoteCast-Editor.dmg"
   name "NoteCast Editor"
